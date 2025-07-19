@@ -1,7 +1,8 @@
 
 # Proyecto Web - Página Web + API Propia
-
-Este proyecto consiste en una aplicación web que consume datos de la API pública y permite a los usuarios agregar sus propios Pokémon a través de un formulario, almacenando la información en una base de datos local mediante una API creada con FastAPI.
+Pablo Garro
+Kevin Sibaja
+Rodrigo Vásquez
 
 ## Tecnologías Utilizadas
 
